@@ -1,3 +1,3 @@
 ## imgPolaroid
 
-Aplicacion usando nodejs y express
+NodeJs and ExpressJs Application
